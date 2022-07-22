@@ -1,6 +1,6 @@
 # K-Means-Clustering
 
-In this exercise, we use KMeans Clustering to cluster Universities into to two groups, Private and Public. The dataset is provided in the repo.
+In this exercise, I use KMeans Clustering to cluster Universities into to two groups, Private and Public. The dataset is provided in the repo.
 
 ___
 It is **very important to note, we actually have the labels for this data set, but we will NOT use them for the KMeans clustering algorithm, since that is an unsupervised learning algorithm.** 
